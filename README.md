@@ -7,7 +7,7 @@ It must be noted that several assumptions were made for the purposes of this pro
 
 A full video of the project simulation description, as well as scenarios is available at this [link]([url](https://drive.google.com/file/d/1Chhf0A1400qCOFxB3iUmxyvtuYOeOlb-/view?usp=sharing)).
 
-###This project covers a total of 4 sceanrios:
+This project covers a total of 4 sceanrios:
 
   * __1- Base scenario__-this has a total of five superchargers located in different parts of the city, of which two are adjacent to one another.
   * __2- Scenario 1__-this scenario still uses five superchargers but the charger generating the least amount of revenue is moved to a busier location.
